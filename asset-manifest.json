@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rakeshrambabu23/reactdash.git/static/css/main.730ea70e.css",
+    "main.js": "/rakeshrambabu23/reactdash.git/static/js/main.90c03fce.js",
+    "static/js/453.64512fd7.chunk.js": "/rakeshrambabu23/reactdash.git/static/js/453.64512fd7.chunk.js",
+    "static/media/logoAfg.jpg": "/rakeshrambabu23/reactdash.git/static/media/logoAfg.05c6f6049b40597f08cf.jpg",
+    "static/media/logo1.jpg": "/rakeshrambabu23/reactdash.git/static/media/logo1.6e9332ac343a8f987ff4.jpg",
+    "index.html": "/rakeshrambabu23/reactdash.git/index.html",
+    "main.730ea70e.css.map": "/rakeshrambabu23/reactdash.git/static/css/main.730ea70e.css.map",
+    "main.90c03fce.js.map": "/rakeshrambabu23/reactdash.git/static/js/main.90c03fce.js.map",
+    "453.64512fd7.chunk.js.map": "/rakeshrambabu23/reactdash.git/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.730ea70e.css",
+    "static/js/main.90c03fce.js"
+  ]
+}
